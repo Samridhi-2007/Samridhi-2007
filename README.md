@@ -41,7 +41,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/Samridhi-2007/Samridhi-2007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Samridhi-2007/Samridhi-2007/blob/output/snake.svg)
 
 ---
 
