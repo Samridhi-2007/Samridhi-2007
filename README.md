@@ -1,3 +1,11 @@
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samridhi%20Prakash&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20|%20Designer%20|%20Tech%20Explorer&descAlignY=55&animation=twinkling"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70057&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Samridhi+Prakash;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+---
+
 ## Hi there 👋, I'm Samridhi Prakash  
 
 <!--
