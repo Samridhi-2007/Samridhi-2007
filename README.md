@@ -6,8 +6,6 @@
 
 ---
 
-## Hi there 👋, I'm Samridhi Prakash  
-
 <!--
 **Samridhi-2007/Samridhi-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
