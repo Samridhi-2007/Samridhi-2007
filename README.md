@@ -47,8 +47,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samridhi%20Prakash-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@samridhi.pink-purple?style=flat-square&logo=instagram)](https://instagram.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samridhi%20Prakash-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samridhi-prakash-a5a4a52bb)  
+[![Instagram](https://img.shields.io/badge/Instagram-@samridhi.pink-purple?style=flat-square&logo=instagram)](https://instagram.com/_samridhi_0720/)  
 [![YouTube](https://img.shields.io/badge/YouTube-Samridhi%20Vlogs-red?style=flat-square&logo=youtube)](https://youtube.com/)  
 
 ---
