@@ -1,63 +1,75 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samridhi%20Prakash&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20|%20Designer%20|%20Tech%20Explorer&descAlignY=55&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Samridhi%20Prakash&fontSize=45&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Designer%20%7C%20Tech%20Explorer&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70057&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Samridhi+Prakash;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70057&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Samridhi;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Blending+Tech+with+Creativity)](https://git.io/typing-svg)
 
 ---
 
-<!--
-**Samridhi-2007/Samridhi-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m currently working on: **JavaScript Projects + React Practice**  
-- 🌱 I’m currently learning: **JavaScript (in-depth), React, DSA (Hashing, Trees, etc.)**  
-- 👯 I’m looking to collaborate on: **Open Source Projects, Hackathons & Web Dev Projects**  
-- 🤔 I’m looking for help with: **Advanced DSA & Backend concepts (for future prep)**  
-- 💬 Ask me about: **Frontend Development, UI/UX Design, Canva Editing, Vlogging 🎥**  
-- 📫 How to reach me: **Check my socials below 👇**  
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: **I love mixing tech + creativity — from coding React apps to aesthetic Canva designs 💜**  
+## ✨ About Me
+- 🔭 Working on: **JavaScript Projects + React Practice**  
+- 🌱 Learning: **JS (in-depth), React, DSA (Hashing, Trees)**  
+- 👯 Open to: **Open Source, Hackathons, Web Dev Collabs**  
+- 💬 Ask me about: **Frontend, UI/UX, Canva, Vlogging 🎥**  
+- ⚡ Fun fact: **Code + Canva + Coffee = My vibe 💜**
 
 ---
 
 ## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/Framework-React-blue?logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![Overleaf](https://img.shields.io/badge/Docs-Overleaf-green?logo=latex&logoColor=white)  
-![Canva](https://img.shields.io/badge/Design-Canva-00C4CC?logo=canva&logoColor=white)  
-![Git](https://img.shields.io/badge/Tool-Git-red?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/Tool-GitHub-black?logo=github&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-HTML-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JS-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Style-Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Canva-00C4CC?logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docs-Overleaf-green?logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Git-red?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-GitHub-black?logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Samridhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samridhi-2007&show_icons=true&theme=radical&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Samridhi-2007&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-2007&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samridhi-2007&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Samridhi-2007&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-2007&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Samridhi-2007&theme=onedark&margin-w=10&margin-h=10)
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samridhi-2007&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Samridhi-2007/Samridhi-2007/blob/output/snake.svg)
-
+## 📈 Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Samridhi-2007&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samridhi%20Prakash-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samridhi-prakash-a5a4a52bb)  
-[![Instagram](https://img.shields.io/badge/Instagram-@samridhi.pink-purple?style=flat-square&logo=instagram)](https://instagram.com/_samridhi_0720/)  
-[![YouTube](https://img.shields.io/badge/YouTube-Samridhi%20Vlogs-red?style=flat-square&logo=youtube)](https://youtube.com/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/samridhi-prakash-a5a4a52bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Samridhi%20Prakash-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/_samridhi_0720/">
+    <img src="https://img.shields.io/badge/Instagram-@samridhi.pink-purple?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-Samridhi%20Vlogs-red?style=for-the-badge&logo=youtube"/>
+  </a>
+</p>
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
