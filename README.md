@@ -41,7 +41,8 @@
 </p>
 
 ---
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samridhi-2007&theme=radical&utcOffset=8)
+----
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Samridhi-2007&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
