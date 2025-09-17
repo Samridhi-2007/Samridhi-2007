@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Samridhi%20Prakash&fontSize=45&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Designer%20%7C%20Tech%20Explorer&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70057&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Samridhi;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Blending+Tech+with+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70057&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Samridhi+Prakash+;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Blending+Tech+with+Creativity)](https://git.io/typing-svg)
 
 ---
 
