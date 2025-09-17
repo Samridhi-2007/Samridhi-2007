@@ -54,6 +54,12 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Samridhi-2007&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
 </p>
 
+<p align="center">
+  <!-- Total Contributions Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Samridhi-2007&label=Total%20Profile%20Views&color=F70057&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/github/contributions-total/Samridhi-2007?color=blue&label=Total%20Contributions&logo=github" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
