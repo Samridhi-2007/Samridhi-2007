@@ -32,29 +32,34 @@
 
 ---
 
-## 🏅  Badges
+## 🏅Badges
 <p align="center">
-  <!-- Postman Badge -->
+  <!-- Postman Certified Badge -->
   <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-API%20Certified-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+    <img src="https://seeklogo.com/images/P/postman-logo-AD2D9D1C26-seeklogo.com.png" alt="Postman" width="70" height="70"/>
   </a>
-  <!-- LeetCode 50 Days Badge -->
+  
+  <!-- LeetCode 50 Days Streak Badge -->
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Streak-F79F1F?logo=leetcode&logoColor=white&style=for-the-badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="70" height="70"/>
   </a>
+  
   <!-- GirlScript Explorer Badge -->
   <a href="https://www.girlscript.tech/">
-    <img src="https://img.shields.io/badge/GirlScript-Explorer-FF1493?logo=girlscript&logoColor=white&style=for-the-badge"/>
+    <img src="https://raw.githubusercontent.com/GirlScript/logo/main/GirlScript_Logo.png" alt="GirlScript Explorer" width="70" height="70"/>
   </a>
+  
   <!-- Hackathon Participant Badge -->
   <a href="#">
-    <img src="https://img.shields.io/badge/Hackathon-Participant-4CAF50?logo=hackerearth&logoColor=white&style=for-the-badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" alt="Hackathon" width="70" height="70"/>
   </a>
+  
   <!-- Competitive Coding Badge -->
   <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Competitive%20Coding-Active-1E90FF?logo=codeforces&logoColor=white&style=for-the-badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Codeforces_logo.png" alt="Codeforces" width="70" height="70"/>
   </a>
 </p>
+
 
 
 ---
