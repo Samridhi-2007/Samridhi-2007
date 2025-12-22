@@ -32,6 +32,17 @@
 
 ---
 
+## 🏅 Badges & Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-API-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-50%20Days-F79F1F?logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GirlScript-Explorer-FF1493?logo=girlscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathons-Participant-4CAF50?logo=hackerearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Competitive%20Coding-Active-1E90FF?logo=codeforces&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samridhi-2007&show_icons=true&theme=radical&hide_border=true" height="150"/>
