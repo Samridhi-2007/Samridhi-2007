@@ -32,14 +32,30 @@
 
 ---
 
-## 🏅 Badges & Achievements
+## 🏅  Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-API-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-50%20Days-F79F1F?logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GirlScript-Explorer-FF1493?logo=girlscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathons-Participant-4CAF50?logo=hackerearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Competitive%20Coding-Active-1E90FF?logo=codeforces&logoColor=white" />
+  <!-- Postman Badge -->
+  <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-API%20Certified-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+  </a>
+  <!-- LeetCode 50 Days Badge -->
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Streak-F79F1F?logo=leetcode&logoColor=white&style=for-the-badge"/>
+  </a>
+  <!-- GirlScript Explorer Badge -->
+  <a href="https://www.girlscript.tech/">
+    <img src="https://img.shields.io/badge/GirlScript-Explorer-FF1493?logo=girlscript&logoColor=white&style=for-the-badge"/>
+  </a>
+  <!-- Hackathon Participant Badge -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Hackathon-Participant-4CAF50?logo=hackerearth&logoColor=white&style=for-the-badge"/>
+  </a>
+  <!-- Competitive Coding Badge -->
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Competitive%20Coding-Active-1E90FF?logo=codeforces&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
+
 
 ---
 
