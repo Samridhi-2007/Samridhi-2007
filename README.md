@@ -1,16 +1,16 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Samridhi%20Prakash&fontSize=45&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Designer%20%7C%20Tech%20Explorer&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Samridhi%20Prakash&fontSize=45&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70057&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Samridhi+Prakash+;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Blending+Tech+with+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70057&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Samridhi+Prakash+;MERN+Stack+Developer+%7C+UI%2FUX+Enthusiast;Blending+Tech+with+Creativity)](https://git.io/typing-svg)
 
 ---
 
 ## ✨ About Me
-- 🔭 Working on: **JavaScript Projects + React Practice**  
-- 🌱 Learning: **JS (in-depth), React, DSA (Hashing, Trees)**  
-- 👯 Open to: **Open Source, Hackathons, Web Dev Collabs**  
-- 💬 Ask me about: **Frontend, UI/UX, Canva, Vlogging 🎥**  
+- 🔭 Working on: **Fullstack MERN Projects + APIs**  
+- 🌱 Learning: **Node.js, Express, MongoDB, Advanced React, DSA**  
+- 👯 Open to: **Open Source, Hackathons, Fullstack Collaborations**  
+- 💬 Ask me about: **MERN Stack, Frontend, UI/UX, Vlogging 🎥**  
 - ⚡ Fun fact: **Code + Canva + Coffee = My vibe 💜**
 
 ---
@@ -21,9 +21,11 @@
   <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-JS-yellow?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Style-Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Canva-00C4CC?logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docs-Overleaf-green?logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Git-red?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-GitHub-black?logo=github&logoColor=white" />
 </p>
