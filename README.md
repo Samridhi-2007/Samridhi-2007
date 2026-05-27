@@ -1,110 +1,128 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Samridhi%20Prakash&fontSize=45&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=200&section=header&text=Samridhi%20Prakash&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70057&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Samridhi+Prakash+;MERN+Stack+Developer+%7C+UI%2FUX+Enthusiast;Blending+Tech+with+Creativity)](https://git.io/typing-svg)
-
----
-
-## ✨ About Me
-- 🔭 Working on: **Fullstack MERN Projects + APIs**  
-- 🌱 Learning: **Node.js, Express, MongoDB, Advanced React, DSA**  
-- 👯 Open to: **Open Source, Hackathons, Fullstack Collaborations**  
-- 💬 Ask me about: **MERN Stack, Frontend, UI/UX, Vlogging 🎥**  
-- ⚡ Fun fact: **Code + Canva + Coffee = My vibe 💜**
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JS-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Canva-00C4CC?logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Git-red?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-GitHub-black?logo=github&logoColor=white" />
-</p>
-
----
-## 🏅Badges
-<p align="center">
-  <!-- Postman Badge -->
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-API%20Certified-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
-  </a>
-  <!-- LeetCode 50 Days Badge -->
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Streak-F79F1F?logo=leetcode&logoColor=white&style=for-the-badge"/>
-  </a>
-  <!-- GirlScript Explorer Badge -->
-  <a href="https://www.girlscript.tech/">
-    <img src="https://img.shields.io/badge/GirlScript-Explorer-FF1493?logo=girlscript&logoColor=white&style=for-the-badge"/>
-  </a>
-  <!-- Hackathon Participant Badge -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Hackathon-Participant-4CAF50?logo=hackerearth&logoColor=white&style=for-the-badge"/>
-  </a>
-  <!-- Competitive Coding Badge -->
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Competitive%20Coding-Active-1E90FF?logo=codeforces&logoColor=white&style=for-the-badge"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF1493&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Samridhi+Prakash;Full+Stack+Developer+%7C+DevOps+Explorer;Building+Scalable+MERN+%2B+Cloud+Projects;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Code.+Deploy.+Scale.+Repeat."/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samridhi-2007&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Samridhi-2007&theme=radical&hide_border=true" height="150"/>
-</p>
+# 💫 About Me
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-2007&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samridhi-2007&theme=radical)
-
-----
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samridhi-2007&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+- 🔭 Currently building **Full Stack MERN + DevOps Projects**
+- 🌱 Learning **Docker, Kubernetes, AWS, CI/CD & System Design**
+- 👯 Looking to collaborate on **Open Source & Scalable Web Apps**
+- 💬 Ask me about **MERN Stack, APIs, DevOps, UI Designing**
+- ⚡ Fun Fact: **I love mixing creativity with code 💜**
+- 🎯 Goal: **Become a Full Stack + DevOps Engineer**
 
 ---
 
-## 📈 Contributions
+# 🚀 Tech Stack
+
+## 💻 Full Stack Development
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Samridhi-2007&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,tailwind,redux" />
 </p>
 
+## ⚙️ DevOps & Cloud
 <p align="center">
-  <!-- Total Contributions Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Samridhi-2007&label=Total%20Profile%20Views&color=F70057&style=flat" />
-  <img src="https://custom-icon-badges.demolab.com/github/contributions-total/Samridhi-2007?color=blue&label=Total%20Contributions&logo=github" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,githubactions,jenkins,bash,nginx" />
+</p>
+
+## 🎨 Design & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva,vscode,postman" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏅 Achievements & Badges
 <p align="center">
+  
+  <img src="https://img.shields.io/badge/Postman-API%20Certified-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/LeetCode-50%2B%20Days%20Streak-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-ff69b4?style=for-the-badge&logo=github"/>
+  
+  <img src="https://img.shields.io/badge/Hackathons-Active%20Participant-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/DevOps-Learning%20Journey-blueviolet?style=for-the-badge&logo=docker"/>
+  
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samridhi-2007&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=Samridhi-2007&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-2007&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samridhi-2007&theme=radical"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samridhi-2007&theme=radical&no-frame=true&margin-w=12&margin-h=12"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samridhi-2007&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 DevOps Journey
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+<p align="center">
+  
   <a href="https://www.linkedin.com/in/samridhi-prakash-a5a4a52bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Samridhi%20Prakash-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Samridhi%20Prakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://instagram.com/_samridhi_0720/">
-    <img src="https://img.shields.io/badge/Instagram-@samridhi.pink-purple?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-@samridhi.pink-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-Samridhi%20Vlogs-red?style=for-the-badge&logo=youtube"/>
+  
+  <a href="https://github.com/Samridhi-2007">
+    <img src="https://img.shields.io/badge/GitHub-Samridhi--2007-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+</p>
+
+---
+
+# 💜 Quote I Live By
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Code.+Deploy.+Scale.+Repeat.;Dream+Big+Build+Bigger+🚀"/>
 </p>
 
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=120&section=footer"/>
