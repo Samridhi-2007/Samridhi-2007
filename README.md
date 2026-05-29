@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Samridhi-2007)
 # 💫 About Me
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
