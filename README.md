@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF1493&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Samridhi+Prakash;Full+Stack+Developer+%7C+DevOps+Explorer;Building+Scalable+MERN+%2B+Cloud+Projects;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Code.+Deploy.+Scale.+Repeat."/>
 </p>
 
----
-![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Samridhi-2007)
+
 # 💫 About Me
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
